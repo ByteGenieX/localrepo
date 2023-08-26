@@ -1,1 +1,1 @@
-# This is my local to remote file on firdt time on sytem
+# This is my local to remote file on first time on my system
